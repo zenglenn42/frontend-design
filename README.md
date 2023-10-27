@@ -2,13 +2,13 @@
 
 ![alt](images/ecommerce-portfolio.png)
 
-I enjoy working on frontend design ... especially understanding client requirements and distilling that down to a scalable information architecture and responsive presentation across mobile, tablet, and desktop.
+I enjoy working on frontend design ... especially with understanding client requirements and distilling that down to a scalable information architecture and responsive presentation across mobile, tablet, and desktop.
 
 -----
 
-# [Contents](#contents)
+## [Contents](#contents)
 
-## [Basic E-Commerce Site]
+### Basic E-Commerce Site
 
 ![alt](images/e-commerce-landing-tr.png)
 
